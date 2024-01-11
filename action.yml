@@ -1,4 +1,4 @@
-name: 'Meilisearch'
+name: 'Threls Meilisearch'
 description: 'Start a Meilisearch server (on default port 7700 or a custom port)'
 
 branding:
