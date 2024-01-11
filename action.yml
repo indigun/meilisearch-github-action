@@ -1,4 +1,4 @@
-name: 'Meilisearch in GitHub Actions'
+name: 'Meilisearch'
 description: 'Start a Meilisearch server (on default port 7700 or a custom port)'
 
 branding:
